@@ -8,6 +8,25 @@ namespace _111
 {
     class Exam
     {
-        String
+        String;
+        int;
+        DataTime;
+    }
+    Public Exam(String S; int i; DataTime D;)
+    {
+    String S;
+    int i;
+    DataTime D;
+    }
+    public Exam()
+    {
+    String
+
     }
 }
+
+
+        
+
+    
+
