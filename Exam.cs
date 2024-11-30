@@ -8,19 +8,19 @@ namespace _111
 {
     class Exam
     {
-        String;
-        int;
-        DataTime;
+        string strin;
+        int it;
+        DateTime(30.11.2024);
     }
-    Public Exam(String S; int i; DataTime D;)
+    public Exam(string s; int i; DateTime(30.11.2024);)
     {
-    String S;
+    string s;
     int i;
-    DataTime D;
+    DateTime(01.01.2000);
     }
     public Exam()
     {
-    String
+    string
 
     }
 }
