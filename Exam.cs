@@ -10,23 +10,18 @@ namespace _111
     {
         string strin;
         int it;
-        DateTime(30.11.2024);
-    }
-    public Exam(string s; int i; DateTime(30.11.2024);)
-    {
-    string s;
-    int i;
-    DateTime(01.01.2000);
-    }
-    public Exam()
-    {
-    string
+        public Exam(string s, int i, DateTime dateTime)
+        {
+        }
+        public Exam()
+        {
 
+
+        }
     }
 }
 
 
-        
 
-    
+
 

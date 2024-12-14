@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _111
 {
-    class Education
+    enum Education
     {
         Specialist,
         Вachelor,
